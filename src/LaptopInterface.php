@@ -6,7 +6,7 @@
 	 * Time: 20:20
 	 */
 	
-	namespace Laptop;
+	namespace Resavac\Laptop;
 	
 	
 	interface LaptopInterface

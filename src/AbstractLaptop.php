@@ -1,6 +1,6 @@
 <?php
 	
-	namespace Laptop;
+	namespace Resavac\Laptop;
 	
 	/**
 	 * Created by PhpStorm.

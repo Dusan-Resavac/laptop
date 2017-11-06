@@ -1,0 +1,12 @@
+{
+    "name": "resavac/laptop",
+    "description": "creates laptops from different manufacturers with different properties",
+    "type": "library",
+    "license": "Apache-2.0",
+    "autoload": {
+        "psr-4": {
+            "Resavac\\Laptop\\": "src/"
+        }
+    },
+    "require": {}
+}

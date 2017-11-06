@@ -6,7 +6,7 @@
 	 * Time: 20:25
 	 */
 	
-	namespace Laptop;
+	namespace Resavac\Laptop;
 	
 	
 	class DellLaptop extends AbstractLaptop implements LaptopInterface

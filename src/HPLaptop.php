@@ -6,7 +6,7 @@
 	 * Time: 20:19
 	 */
 	
-	namespace Laptop;
+	namespace Resavac\Laptop;
 	
 	
 	class HPLaptop extends AbstractLaptop implements LaptopInterface
