@@ -41,7 +41,10 @@
 			return $this->size;
 		}
 		
-		function __toString()
+		/**
+		 * @return string
+		 */
+		function __toString() : string
 		{
 			return "Price: " .  $this->price . " | Size: " . $this->size;
 		}
